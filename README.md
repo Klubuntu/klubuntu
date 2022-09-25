@@ -1,6 +1,6 @@
 # Welcome on Klubuntu Projects Library
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klubuntu&show_icons=true&text_color=a31225&icon_color=f0dd13)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klubuntu&layout=compact)](https://github.com/klubuntu)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klubuntu&show_icons=true&text_color=ADADAD&icon_color=00ff00&bg_color=222222)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klubuntu&layout=compact&text_color=ADADAD&icon_color=00ff00&bg_color=222222)](https://github.com/klubuntu)
 
 ## ✉️ You can contact me with
 [!["Discord"](https://user-images.githubusercontent.com/49614906/156832891-3b42f03c-0ef0-46b6-a86e-25a5699f96d9.png)](https://discord.gg/2fagvabuyd)
