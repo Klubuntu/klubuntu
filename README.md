@@ -1,8 +1,11 @@
-# Welcome on Klubuntu Projects Library
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klubuntu&show_icons=true&text_color=ADADAD&icon_color=00ff00&bg_color=222222)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klubuntu&layout=compact&text_color=ADADAD&icon_color=00ff00&bg_color=222222)](https://github.com/klubuntu)
+# Welcome on my projects library
+[![Light Mode Stats](https://github-readme-stats.vercel.app/api?username=klubuntu&show_icons=true&text_color=ADADAD&icon_color=00ff00&bg_color=ffffff#gh-light-mode-only)](https://github.com/klubuntu/#gh-light-mode-only)
+[![Dark Mode Stats](https://github-readme-stats.vercel.app/api?username=klubuntu&show_icons=true&text_color=ADADAD&icon_color=00ff00&bg_color=222222#gh-dark-mode-only)](https://github.com/klubuntu/#gh-dark-mode-only)
+[![Light Mode Stats Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klubuntu&layout=compact&text_color=ADADAD&icon_color=00ff00&bg_color=ffffff#gh-light-mode-only)](https://github.com/klubuntu/#gh-light-mode-only)
+[![Dark Mode Stats Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klubuntu&layout=compact&text_color=ADADAD&icon_color=00ff00&bg_color=222222#gh-dark-mode-only)](https://github.com/klubuntu/#gh-dark-mode-only)
 
-## ✉️ You can contact me with
+
+## ✉️ You can contact with me
 [!["Discord"](https://user-images.githubusercontent.com/49614906/156832891-3b42f03c-0ef0-46b6-a86e-25a5699f96d9.png)](https://discord.gg/2fagvabuyd)
 [!["Email"](https://user-images.githubusercontent.com/49614906/156833411-f944caaf-cc00-4ccc-99e1-af8087be5af4.png)](mailto:klubuntu.dev@gmail.com)
 [!["Facebook"](https://user-images.githubusercontent.com/49614906/156834310-7d294a8d-4c6e-44c5-af3c-e13822f2bb9d.png)](https://fb.me/Klubuntu)
