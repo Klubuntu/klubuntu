@@ -19,7 +19,7 @@
 ## 💁‍♂️ You can support me using
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/klubuntu)
 [![Support Patreon](https://user-images.githubusercontent.com/49614906/152114227-4f124647-e6d2-4bd4-b393-5295d2f9907e.png)](https://patreon.com/klubuntu)
-[![Support with Paypal](https://user-images.githubusercontent.com/49614906/152120797-a16ae87e-81ff-46ee-aefe-423822aed516.png)]([https://beta.klubuntu.eu.org/support/paypal](https://www.paypal.com/paypalme/OnerOSTeam))
+[![Support with Paypal](https://user-images.githubusercontent.com/49614906/152120797-a16ae87e-81ff-46ee-aefe-423822aed516.png)](https://www.paypal.com/paypalme/OnerOSTeam)
 
 ###
 
