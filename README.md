@@ -3,13 +3,15 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,rust,python,linux,nextjs,discordjs,vscode&theme=light#gh-light-mode-only)](https://github.com/klubuntu#gh-light-mode-only)
 
 ## 📖 Projects
-- [OnerOS (first preview)](https://github.com/OnerOS-Project)
+[![OnerOS](https://img.shields.io/badge/OnerOS-Project-0b8a51?style=for-the-badge&logo=github)](https://github.com/OnerOS-Project)
+[![iTVT Poland Group](https://img.shields.io/badge/iTVT-Poland_Group-05a1ab?style=for-the-badge&logo=github)](https://github.com/open-itvt)
+[![RevoProject](https://img.shields.io/badge/Revo-Project-0531ab?style=for-the-badge&logo=github)](https://github.com/revoproject)
+
 
 
 ## ✉️ You can contact with me
 [!["Discord"](https://user-images.githubusercontent.com/49614906/156832891-3b42f03c-0ef0-46b6-a86e-25a5699f96d9.png)](https://discord.gg/2fagvabuyd)
 [!["Email"](https://user-images.githubusercontent.com/49614906/156833411-f944caaf-cc00-4ccc-99e1-af8087be5af4.png)](mailto:klubuntu.dev@gmail.com)
-[!["Facebook"](https://user-images.githubusercontent.com/49614906/156834310-7d294a8d-4c6e-44c5-af3c-e13822f2bb9d.png)](https://fb.me/Klubuntu)
 
 ## 💁‍♂️ You can support me using
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/klubuntu)
