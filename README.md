@@ -17,12 +17,20 @@
 [![Support with Paypal](https://user-images.githubusercontent.com/49614906/152120797-a16ae87e-81ff-46ee-aefe-423822aed516.png)](https://www.paypal.com/paypalme/OnerOSTeam)
 
 ## Stats
-[![Light Mode Stats](https://github-readme-stats.vercel.app/api?username=klubuntu&show_icons=true&text_color=ADADAD&icon_color=00ff00&bg_color=ffffff#gh-light-mode-only)](https://github.com/klubuntu#gh-light-mode-only)
-[![Dark Mode Stats](https://github-readme-stats.vercel.app/api?username=klubuntu&show_icons=true&text_color=ADADAD&icon_color=00ff00&bg_color=222222#gh-dark-mode-only)](https://github.com/klubuntu/#gh-dark-mode-only)
-[![Light Mode Stats Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klubuntu&layout=compact&text_color=ADADAD&icon_color=00ff00&bg_color=ffffff#gh-light-mode-only)](https://github.com/klubuntu#gh-light-mode-only)
-[![Dark Mode Stats Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klubuntu&layout=compact&text_color=ADADAD&icon_color=00ff00&bg_color=222222#gh-dark-mode-only)](https://github.com/klubuntu#gh-dark-mode-only)
+
+<div align="center">
+
+
+[![Light Mode Stats](https://github-stats-extended.vercel.app/api?username=klubuntu&show_icons=true&icon_color=00ff00&bg_color=ffffff#gh-light-mode-only)](https://github.com/klubuntu#gh-light-mode-only) 
+[![Dark Mode Stats](https://github-stats-extended.vercel.app/api?username=klubuntu&show_icons=true&text_color=ADADAD&icon_color=00ff00&bg_color=0c1117#gh-dark-mode-only)](https://github.com/klubuntu#gh-dark-mode-only) 
+[![Light Mode Stats Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=klubuntu&layout=compact&icon_color=00ff00&bg_color=ffffff#gh-light-mode-only)](https://github.com/klubuntu#gh-light-mode-only) 
+[![Dark Mode Stats Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=klubuntu&layout=compact&text_color=ADADAD&icon_color=00ff00&bg_color=0c1117#gh-dark-mode-only)](https://github.com/klubuntu#gh-dark-mode-only) 
+
+</div>
+
 
 ###
 
 Code with ❤️ to projects
+
 
