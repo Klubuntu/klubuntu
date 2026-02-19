@@ -1,6 +1,6 @@
 # Welcome on my projects library
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,rust,python,linux,nextjs,discordjs,vscode#gh-dark-mode-only)](https://github.com/klubuntu#gh-dark-mode-only)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,rust,python,linux,nextjs,discordjs,vscode&theme=light#gh-light-mode-only)](https://github.com/klubuntu#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,rust,python,linux,nextjs,discordjs,vscode,figma#gh-dark-mode-only)](https://github.com/klubuntu#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,rust,python,linux,nextjs,discordjs,vscode,figma&theme=light#gh-light-mode-only)](https://github.com/klubuntu#gh-light-mode-only)
 
 ## 📖 Projects
 [![OnerOS](https://img.shields.io/badge/OnerOS-Project-0b8a51?style=for-the-badge&logo=github)](https://github.com/OnerOS-Project)
